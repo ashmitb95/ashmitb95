@@ -18,6 +18,10 @@ PIM and EAV systems, Invoice, Quotation and Document Generation
 
 **[claude-notifier](https://github.com/ashmitb95/claude-notifier)** -- A VSCode extension + CLI tool that plays distinct sounds when Claude Code finishes a task, needs permission, or asks a question. Uses Claude Code hooks to keep you in flow without staring at the terminal. Available on the [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=SingularityInc.claude-notifier).
 
+**[llm-video-analyzer](https://github.com/ashmitb95/video-analyzer-llm)** -- CLI + MCP server that transforms informational YouTube videos into searchable, LLM-compatible knowledge bases with transcript extraction, key frame analysis, and slide detection.
+
+**[linkedin-leadgen](https://github.com/ashmitb95/linkedin-leadgen)**-- Automated prospecting and job discovery platform using Playwright browser automation and Claude AI for intelligent scoring and outreach.
+
 ### Tech
 
 ```
@@ -35,4 +39,4 @@ Domains        Semantic Modelling for LLMs, Compliance Engines, PIM/EAV,
 
 ### Links
 
-[LinkedIn](https://linkedin.com/in/ashmitb) ・ [Portfolio](https://ashmitb.vercel.app) ・ [Email](mailto:ashmitbbiswas@gmail.com)
+[LinkedIn](https://linkedin.com/in/ashmitb) ・ [Portfolio](https://ashmitb.dev) ・ [Email](mailto:ashmitbbiswas@gmail.com)
