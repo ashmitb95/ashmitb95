@@ -2,17 +2,15 @@
 
 Full-stack engineer with **8 years** of experience building products, platforms, and teams -- from zero-to-one MVPs to systems handling **10,000 RPS**. I've worked across B2C entertainment, B2B SaaS, compliance, and AI-driven products.
 
-Currently looking for AI-accelerated teams that love rapidly prototyping scoped down features and systems, iterating quickly, and then building on top of what works while deprioritizing the rest.
-
 ---
 
-### What I've been building in the recent past
+### Area of expertise
 
 RAG based AI executive dashboards, driven by dynamic semantic models on warehouse schemas
 
 Compliance Enforcement Engines, Age Gate APIs, and overall federated parental guided access controls for Safety of children in Online Spaces
 
-PIM and EAV systems, Invoice, Quotation and Document Generation
+PIM and EAV systems, Knowledge base driven document generation
 
 ### Repositories
 
