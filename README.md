@@ -1,5 +1,4 @@
-
-# Hey, I'm Ashmit
+# Hey, I'm Ashmit 👋
 
 Full-stack engineer with **8 years** of experience building products, platforms, and teams -- from zero-to-one MVPs to systems handling **10,000 RPS**. I've worked across B2C entertainment, B2B SaaS, compliance, and AI-driven products.
 
@@ -21,7 +20,7 @@ PIM and EAV systems, Knowledge base driven document generation
 
 **[llm-video-analyzer](https://github.com/ashmitb95/video-analyzer-llm)** -- CLI + MCP server that transforms informational YouTube videos into searchable, LLM-compatible knowledge bases with transcript extraction, key frame analysis, and slide detection.
 
-**[linkedin-leadgen](https://github.com/ashmitb95/linkedin-leadgen)**-- Automated prospecting and job discovery platform using Playwright browser automation and Claude AI for intelligent scoring and outreach.
+**[linkedin-leadgen](https://github.com/ashmitb95/linkedin-leadgen)** -- Automated prospecting and job discovery platform using Playwright browser automation and Claude AI for intelligent scoring and outreach.
 
 ### Tech
 
@@ -40,4 +39,6 @@ Domains        Semantic Modelling for LLMs, Compliance Engines, PIM/EAV,
 
 ### Links
 
-[LinkedIn](https://linkedin.com/in/ashmitb) ・ [Portfolio](https://ashmitb.dev) ・ [Email](mailto:ashmitbbiswas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashmitb-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashmitb)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ashmitb.dev-1f6feb?style=flat-square&logo=googlechrome&logoColor=white)](https://ashmitb.dev)
+[![Email](https://img.shields.io/badge/Email-ashmitbbiswas@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ashmitbbiswas@gmail.com)
