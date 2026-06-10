@@ -18,7 +18,7 @@ them teach me something.
 
 - **[claude-notifier](https://github.com/ashmitb95/claude-notifier)** — distinct sounds when Claude Code finishes or needs you, so you stop staring at the terminal. On the [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=SingularityInc.claude-notifier). My most-played side quest.
 - **[screenscribe-mcp](https://github.com/ashmitb95/screenscribe-mcp)** — turn any video into something your *agent* can act on. Gemini watches, Claude reasons, your codebase gets the result. CLI + MCP.
-  <br>*Genuinely my most underrated repo — and the closest thing I've got to a cheat code. It's done more to speed up everything else on this list than any tool I own.*
+  *Genuinely my most underrated repo — and the closest thing I've got to a cheat code. It's done more to speed up everything else on this list than any tool I own.*
 - **[canopy](https://github.com/ashmitb95/canopy)** — worktree-first orchestrator for working across many repos at once. One primitive, two surfaces (CLI + MCP) — so Claude Code can drive your workspace the way you do.
 - **[musaic](https://github.com/ashmitb95/musaic)** — a generative AI DJ in the browser that never plays the same track twice. Techno, written as code. Built on Strudel.
 - **[linkedin-leadgen](https://github.com/ashmitb95/linkedin-leadgen)** — automated prospecting + job-hunt across LinkedIn, Naukri, and Hirist, with Claude scoring the matches. (This one actually landed me a job.)
