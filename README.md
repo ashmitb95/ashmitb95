@@ -2,7 +2,7 @@
 
 **Engineer by trade. Tinkerer by compulsion. Gamer by wiring.** 🎮
 
-8 years shipping products at scale — B2C entertainment, B2B SaaS, compliance, AI.
+8 years shipping products at scale — B2C entertainment, B2B SaaS, Compliance, AI orchestration layers and knowledge bases.
 
 
 **By day:** RAG executive dashboards, semantic models over warehouse schemas,
