@@ -1,43 +1,46 @@
 # Hey, I'm Ashmit 👋
 
-Full-stack engineer with **8 years** of experience building products, platforms, and teams -- from zero-to-one MVPs to systems handling **10,000 RPS**. I've worked across B2C entertainment, B2B SaaS, compliance, and AI-driven products.
+**Engineer by trade. Tinkerer by compulsion. Gamer by wiring.** 🎮
+
+8 years shipping products at scale — B2C entertainment, B2B SaaS, compliance, AI.
+
+
+**By day:** RAG executive dashboards, semantic models over warehouse schemas,
+text-to-SQL, compliance/age-gate engines, high-volume read systems.
+
+**By night:** I'm chasing side quests — experiments I build because I want to, not because anyone asked. Most start as
+*"I wonder if I can…"* A few ship. Some get abandoned in a cave somewhere. All of
+them teach me something.
 
 ---
 
-### Area of expertise
+🎮 Side quests
 
-RAG based AI executive dashboards, driven by dynamic semantic models on warehouse schemas
+- **[claude-notifier](https://github.com/ashmitb95/claude-notifier)** — distinct sounds when Claude Code finishes or needs you, so you stop staring at the terminal. On the [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=SingularityInc.claude-notifier). My most-played side quest.
+- **[screenscribe-mcp](https://github.com/ashmitb95/screenscribe-mcp)** — turn any video into something your *agent* can act on. Gemini watches, Claude reasons, your codebase gets the result. CLI + MCP.
+  <br>*Genuinely my most underrated repo — it flattens the learning curve of a YouTube tutorial into something you can just act on.*
+- **[canopy](https://github.com/ashmitb95/canopy)** — worktree-first orchestrator for working across many repos at once. One primitive, two surfaces (CLI + MCP) — so Claude Code can drive your workspace the way you do.
 
-Compliance Enforcement Engines, Age Gate APIs, and overall federated parental guided access controls for Safety of children in Online Spaces
-
-PIM and EAV systems, Knowledge base driven document generation
-
-### Repositories
-
-**[canopy](https://github.com/ashmitb95/canopy)** -- Worktree-first workspace manager for working across multiple repos. Spin up isolated feature branches in every repo at once, open them in your IDE, and commit across all of them with one command. Doubles as an MCP server so Claude Code can drive your workspace the same way you do.
-
-**[claude-notifier](https://github.com/ashmitb95/claude-notifier)** -- A VSCode extension + CLI tool that plays distinct sounds when Claude Code finishes a task, needs permission, or asks a question. Uses Claude Code hooks to keep you in flow without staring at the terminal. Available on the [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=SingularityInc.claude-notifier).
-
-**[llm-video-analyzer](https://github.com/ashmitb95/video-analyzer-llm)** -- CLI + MCP server that transforms informational YouTube videos into searchable, LLM-compatible knowledge bases with transcript extraction, key frame analysis, and slide detection.
-
-**[linkedin-leadgen](https://github.com/ashmitb95/linkedin-leadgen)** -- Automated prospecting and job discovery platform using Playwright browser automation and Claude AI for intelligent scoring and outreach.
-
-### Tech
-
-```
-Languages      TypeScript, JavaScript, Python, Golang
-Backend        NestJS, Node, FastAPI, .NET MVC
-Frontend       React, Redux, NextJS, Tanstack
-Databases      Postgres, MongoDB, Redis, Supabase
-ORM / Data     TypeORM, SQLAlchemy
-Infra          RabbitMQ, Celery, AWS (Incognito, SSO)
-Domains        Semantic Modelling for LLMs, Compliance Engines, PIM/EAV,
-               Text-to-SQL RAG, High-volume read systems, API design (REST/gRPC)
-```
+- **[musaic](https://github.com/ashmitb95/musaic)** — a generative AI DJ in the browser that never plays the same track twice. Techno, written as code (Strudel).
+- **[linkedin-leadgen](https://github.com/ashmitb95/linkedin-leadgen)** — automated prospecting + job-hunt across LinkedIn, Naukri, and Hirist, with Claude scoring the matches. (This one actually landed me a job.)
+- **[gmaps-leadgen](https://github.com/ashmitb95/gmaps-leadgen)** — finds local businesses with no website — built it for an agency's outreach motion.
+- **[cyberpunk-samurai](https://github.com/ashmitb95/cyberpunk-samurai)** — a Cyberpunk 2077 theme for VS Code, because *of course*. It's the best singleplayer game ever made.
 
 ---
 
-### Links
+### 🎮 Loadout
+
+```
+Languages   TypeScript · Python · Go · JavaScript
+Backend     NestJS · Node · FastAPI · .NET
+Frontend    React · Next.js · TanStack
+Data        Postgres · Mongo · Redis · Supabase
+AI / Agents MCP servers · RAG · text-to-SQL · Claude / Gemini
+```
+
+Being an engineer by trade is really just a byproduct of what I love doing most: wondering if I can build something — then burning tokens and staring at my code until it confesses why it won't work.
+
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashmitb-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashmitb)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ashmitb.dev-1f6feb?style=flat-square&logo=googlechrome&logoColor=white)](https://ashmitb.dev)
